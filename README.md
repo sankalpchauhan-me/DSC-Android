@@ -32,12 +32,12 @@ Development
 
 **A2) Basic Java + XML**
 
--Basic Java (Method Defiantion, Variable declaration, Classes, constructors, Objects etc)
--Interfaces in Java
--XML and Java Interaction (Resources in Android, findviewbyid etc)
--Data Types, loops (If needed)
--onClick attribute
--onClickListener Intro
+- Basic Java (Method Defiantion, Variable declaration, Classes, constructors, Objects etc)
+- Interfaces in Java
+- XML and Java Interaction (Resources in Android, findviewbyid etc)
+- Data Types, loops (If needed)
+- onClick attribute
+- onClickListener Intro
 
 **A3) Basic Android**
 
