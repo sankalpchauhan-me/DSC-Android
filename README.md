@@ -2,7 +2,8 @@
 ![Android](https://img.shields.io/badge/platform-Android-green.svg)
 
 <p align="center">
-    <img src="https://lh3.googleusercontent.com/jzuXJlV4mWInpXTyssMz6ZmrcPvRye97DdUexjTew1MRN0JUl4z2EztSOo2Cv3_ztWY-1VG3McEyJBvUKugcE-snmAfeS5E=s1352" alt="logo" width="500"/> <br>
+    <img src="https://i.gifer.com/74Zk.gif" alt="android" width="200"/>
+    <br><img src="https://lh3.googleusercontent.com/jzuXJlV4mWInpXTyssMz6ZmrcPvRye97DdUexjTew1MRN0JUl4z2EztSOo2Cv3_ztWY-1VG3McEyJBvUKugcE-snmAfeS5E=s1352" alt="logo" width="500"/>   <br>
     </p>
 
 
@@ -339,7 +340,7 @@ SUBMODULE Part- 3
 - Getting and Understanding Google Play Developer Console
 - Preparing App For Release
 - Understanding Google Android Policy so that app do not get Rejected
-- Securing Source Code from hackers using **ProGuard** and APK Signatures
+- Securing Source Code from using **ProGuard** and APK Signatures
 - Providing App Updates to users
 
 -------------------------------------------- **End Of Android Course** -----------------------------------------------
